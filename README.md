@@ -7,7 +7,7 @@ The Word Guessing Game: https://codeinplace.stanford.edu/cip5/share/XoEYB6KZI1lg
 <br>
 <img src="https://github.com/madhumi2611/code-in-place-final-project/blob/main/SampleRun.png">
 <br>
-#Deployment
+# Deployment
 To deploy this project run
 ```bash
 """
